@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelipeMarconato
-- 👀 I’m interested in  desenvolver em SQL
+- 👀 I’m interested in  desenvolver em TSQL
 - 🌱 I’m currently learning  C# .net
 - 💞️ I’m looking to collaborate on  novos projetos e  acredito que posso fazer acontecer.
 - 📫 How to reach me  meus contatos (11) 979695434 ou felipemoshe16@gmail.com
